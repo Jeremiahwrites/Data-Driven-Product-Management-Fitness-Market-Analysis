@@ -1,7 +1,3 @@
-Here’s a polished, insight-driven **GitHub README.md** you can use for your project:
-
----
-
 # 📊 Data-Driven Product Management: Fitness Market Analysis
 
 ## 🚀 Project Overview
